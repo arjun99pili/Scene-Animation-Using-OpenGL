@@ -2,13 +2,13 @@
 Implemented a scene-graph using the complete C/C++ pipeline for graphics with Opengl using Model- View-Control (MVC) architecture. The scene allows for user to change point of view between different objects and permits interaction with said objects.
 
 
-Compilation & ExecutionInstruction
-##################################
+# Compilation & ExecutionInstruction
+
 
 * Run 'make run' on the terminal to compile and execute.
 
-How to Use
-##########
+# How to Use
+
 
 * Press 'C' to controll a camera.
 * Press 'M' to controll a man. Note that you can only control A and B.
